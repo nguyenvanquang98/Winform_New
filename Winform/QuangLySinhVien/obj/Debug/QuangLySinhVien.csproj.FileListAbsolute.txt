@@ -1,0 +1,24 @@
+D:\CODE\.NET\QuanLySV\QuangLySinhVien\QuangLySinhVien\bin\Debug\QuangLySinhVien.exe.config
+D:\CODE\.NET\QuanLySV\QuangLySinhVien\QuangLySinhVien\bin\Debug\QuangLySinhVien.exe
+D:\CODE\.NET\QuanLySV\QuangLySinhVien\QuangLySinhVien\bin\Debug\QuangLySinhVien.pdb
+D:\CODE\.NET\QuanLySV\QuangLySinhVien\QuangLySinhVien\obj\Debug\QuangLySinhVien.csprojAssemblyReference.cache
+D:\CODE\.NET\QuanLySV\QuangLySinhVien\QuangLySinhVien\obj\Debug\QuangLySinhVien.QuanLy.resources
+D:\CODE\.NET\QuanLySV\QuangLySinhVien\QuangLySinhVien\obj\Debug\QuangLySinhVien.Properties.Resources.resources
+D:\CODE\.NET\QuanLySV\QuangLySinhVien\QuangLySinhVien\obj\Debug\QuangLySinhVien.csproj.GenerateResource.cache
+D:\CODE\.NET\QuanLySV\QuangLySinhVien\QuangLySinhVien\obj\Debug\QuangLySinhVien.csproj.CoreCompileInputs.cache
+D:\CODE\.NET\QuanLySV\QuangLySinhVien\QuangLySinhVien\obj\Debug\QuangLySinhVien.exe
+D:\CODE\.NET\QuanLySV\QuangLySinhVien\QuangLySinhVien\obj\Debug\QuangLySinhVien.pdb
+D:\CODE\.NET\QuanLySV\QuangLySinhVien\QuangLySinhVien\obj\Debug\QuangLySinhVien.Fix.resources
+D:\CODE\.NET\QuanLySV\QuangLySinhVien\QuangLySinhVien\obj\Debug\QuangLySinhVien.AddStudent.resources
+D:\CODE\.NET\QuanLySV\QuangLySinhVien - Copy\QuangLySinhVien\bin\Debug\QuangLySinhVien.exe.config
+D:\CODE\.NET\QuanLySV\QuangLySinhVien - Copy\QuangLySinhVien\bin\Debug\QuangLySinhVien.exe
+D:\CODE\.NET\QuanLySV\QuangLySinhVien - Copy\QuangLySinhVien\bin\Debug\QuangLySinhVien.pdb
+D:\CODE\.NET\QuanLySV\QuangLySinhVien - Copy\QuangLySinhVien\obj\Debug\QuangLySinhVien.csprojAssemblyReference.cache
+D:\CODE\.NET\QuanLySV\QuangLySinhVien - Copy\QuangLySinhVien\obj\Debug\QuangLySinhVien.AddStudent.resources
+D:\CODE\.NET\QuanLySV\QuangLySinhVien - Copy\QuangLySinhVien\obj\Debug\QuangLySinhVien.Fix.resources
+D:\CODE\.NET\QuanLySV\QuangLySinhVien - Copy\QuangLySinhVien\obj\Debug\QuangLySinhVien.QuanLy.resources
+D:\CODE\.NET\QuanLySV\QuangLySinhVien - Copy\QuangLySinhVien\obj\Debug\QuangLySinhVien.Properties.Resources.resources
+D:\CODE\.NET\QuanLySV\QuangLySinhVien - Copy\QuangLySinhVien\obj\Debug\QuangLySinhVien.csproj.GenerateResource.cache
+D:\CODE\.NET\QuanLySV\QuangLySinhVien - Copy\QuangLySinhVien\obj\Debug\QuangLySinhVien.csproj.CoreCompileInputs.cache
+D:\CODE\.NET\QuanLySV\QuangLySinhVien - Copy\QuangLySinhVien\obj\Debug\QuangLySinhVien.exe
+D:\CODE\.NET\QuanLySV\QuangLySinhVien - Copy\QuangLySinhVien\obj\Debug\QuangLySinhVien.pdb
